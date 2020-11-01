@@ -1,7 +1,5 @@
 #body{
 
-
-
 }
 
 .cardapio {
@@ -21,3 +19,14 @@
     list-style: none;
 }
 
+div.titulo {
+    display: flex ;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+div.titulo img{
+    height: 100px;
+    width: 200px;
+}
