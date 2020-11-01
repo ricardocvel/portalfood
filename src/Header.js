@@ -2,14 +2,20 @@ import React from 'react';
 
 import './style/Header.css';
 
+import Lupa from './assets/icons/search.svg'
+
 export default function Header() {
     return(
         <div id="header">
             <div> 
+                
                 <h1>Shawarmaria</h1>
             </div>
-            <div> 
-                <h1>Outros Elementos</h1>
+            <div className="containerright"> 
+                <div className="pesquisar">
+                    <img src={Lupa}/>
+                    <input></input>
+                </div>
             </div>
         </div>
     );
