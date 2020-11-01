@@ -6,6 +6,7 @@ import './style/App.css';
 import Header from './Header';
 import Itens from './components/Item';
 
+import Titulo from './assets/logoColor.png';
 
 function App() {
   return (
