@@ -2,43 +2,50 @@
   {
     "nome": "Shawarma de Carne",
     "ingredientes":"Pão Sírio, Carne suculenta, Tomate, Alface, Cebola Roxa, Batata frita, Molho de alho, Picles e Temperos.",
-    "preco":"17,50"
+    "preco":"17,50",
+    "img":1
   },
 
   {
     "nome": "Shawarma de Frango",
     "ingredientes":"Pão Sírio, Carne de frango, Tomate, Alface, Cebola Roxa, Batata frita, Molho de alho, Picles, Temperos.",
-    "preco":"15,50"
+    "preco":"15,50",
+    "img":"<img src={Item001}/>"
   },
 
   {
     "nome": "Shawarma Misto",
     "ingredientes":"Pão Sírio, Carne suculenta, Carne de frango, Tomate, Alface, Cebola Roxa, Batata frita, Molho de alho, Picles,  Temperos.",
-    "preco":"17,50"
+    "preco":"17,50",
+    "img":"<img src={Item001}/>"
   },
 
   {
     "nome": "Sanduíche de pura carne assada no bafo (Desfiada)",
     "ingredientes":"Pão baguete francesa, Maionese, recheado com muita e Suculenta Carne desfiada (assada no bafo, 3 horas de fogo), Temperos (Pimentão variedades, Cebola, Cheiro verde, Pimenta) e molho barbecue. Acompanha vinagrete para adicionar ao sanduíche.",
-    "preco":"22,50"
+    "preco":"22,50",
+    "img":"<img src={Item001}/>"
   },
 
   {
     "nome": "Lanche de pura carne desfiada ( Partido ao meio e com salada )",
     "ingredientes":"Pão baguete francesa, Maionese, recheado com Muita e Suculenta Carne desfiada (assada no bafo, 3 horas de fogo), Temperos (Pimentão variedades, Cebola, Cheiro verde, Pimenta) e molho barbecue. Acompanha vinagrete para adicionar ao lanche.",
-    "preco":"24,50"
+    "preco":"24,50",
+    "img":"<img src={Item001}/>"
   },
 
   {
     "nome": "Tabule",
     "ingredientes":"Pepino, Tomate, trigo para kibe hidratado, salsinha, limão e pimenta do reino",
-    "preco":"10,50"
+    "preco":"10,50",
+    "img":"<img src={Item001}/>"
   },
 
   {
     "nome": "Fritas",
     "ingredientes":"Porção de batata frita ",
-    "preco":"12,90"
+    "preco":"12,90",
+    "img":"<img src={Item001}/>"
   }
 
 ]
