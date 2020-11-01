@@ -2,7 +2,8 @@ import React from 'react';
 
 import './style/Header.css';
 
-import Lupa from './assets/icons/search.svg'
+import Lupa from './assets/icons/search.svg';
+import Logo from './assets/logoColor.png';
 
 export default function Header() {
     return(
