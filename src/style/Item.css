@@ -1,0 +1,11 @@
+
+#itens {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+
+    display: flex ;
+    align-items: flex-start;
+    background-color: blue;
+    height: 60px;
+}
