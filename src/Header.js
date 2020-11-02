@@ -29,7 +29,7 @@ export default function Header() {
                     <div>
                         <h1>BEM VINDO A SHAWARMARIA</h1>
                         <h2>Escolha o item de sua preferencia e clique no botão </h2>
-                        <h2>Pedir pelo Whatsapp</h2>
+                        <h2>Para pedir pelo Whatsapp</h2>
                     </div>
                 </div>
             </div>

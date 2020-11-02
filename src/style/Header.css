@@ -14,12 +14,15 @@
 }
 
 div.containerright {
+
+    margin-top: 20px;
     display: flex ;
     flex-direction: column;
     width: 80%;
 }
 
 div.pesquisar{
+    margin-right: 15px ;
     display: flex ;
     flex-direction: row;
     align-items: center;

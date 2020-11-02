@@ -4,6 +4,7 @@ import './style/Global.css';
 import './style/App.css';
 
 import Header from './Header';
+import Footer from './Footer';
 import Itens from './components/Item';
 
 import Titulo from './assets/logoColor.png';
@@ -19,6 +20,7 @@ function App() {
           </ul>
         </div>
       </div>
+      <Footer/>
     </>
 
   );
